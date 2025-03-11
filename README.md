@@ -119,15 +119,13 @@
 > 3D Contrib
 
 <div align="center">
-  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
+  <img src="https://raw.githubusercontent.com/jonathansuarezpadilla/jonathansuarezpadilla/master/profile-3d-contrib/profile-season-animate.svg" alt="3d-contrib" height="85%" width="70%" />
 </div>
 
 > Contribution Graph
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://raw.githubusercontent.com/jonathansuarezpadilla/jonathansuarezpadilla/readme/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
 ---
