@@ -92,24 +92,6 @@
       
 <br/>
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving</h2></summary>
-  </ul>
-</div>
-<!--icons and links-->
-<p>
-<a href="https://leetcode.com/Mohamed_Magdi/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/mohamed_m_alseh1" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
-</p>
-
----
-
-### ✨ Visitors
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli" alt="Mo-Alsehli" /> </p>
-
----
 
 ### 📊 Profile stats
 
