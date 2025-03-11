@@ -99,14 +99,18 @@
   <tr>
     <td align="center">
       <a href="https://github.com/jonathansuarezpadilla/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jonathan-Suarez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Jonathan Suarez's github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=jonathansuarezpadilla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="jonathansuarezpadilla's github stats">
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathansuarezpadilla&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jonathansuarezpadilla">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com/?user=jonathansuarezpadilla&theme=dark&hide_border=true&short_numbers=true" alt="jonathansuarezpadilla">
+        </a>
     </td>
   </tr>
 </table>
+
+
 
 ---
 
