@@ -125,10 +125,10 @@
 > Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jonathansuarezpadilla/jonathansuarezpadilla/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/jonathansuarezpadilla/jonathansuarezpadilla/main/resources/grid-snake.svg" alt="snake" />
 </div>
 
 ---
 
-Credit: [username](https://github.com/Mo-Alsehli)
-Last Edited on: 6/4/2024
+Credit: [Jonathan Suarez Padilla](https://github.com/jonathansuarezpadilla)
+Last Edited on: 11/03/2025
