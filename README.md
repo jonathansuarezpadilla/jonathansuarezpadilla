@@ -119,7 +119,7 @@
 > 3D Contrib
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jonathansuarezpadilla/jonathansuarezpadilla/master/profile-3d-contrib/profile-season-animate.svg" alt="3d-contrib" height="85%" width="70%" />
+  <img src="https://raw.githubusercontent.com/jonathansuarezpadilla/jonathansuarezpadilla/master/profile-3d-contrib/profile-gitblock.svg" alt="3d-contrib" height="85%" width="70%" />
 </div>
 
 > Contribution Graph
